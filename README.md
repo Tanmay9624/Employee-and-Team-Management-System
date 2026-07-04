@@ -2,7 +2,7 @@
 
 A robust, file-based management system written in C to track employee productivity, manage team assignments, and calculate performance metrics. This system uses structured data to handle complex relationships between individual employees and their respective teams.
 
-## 🚀 Key Features
+##  Key Features
 
 * **Performance Tracking:** Log daily working hours for each employee across a 7-day week.
 * **Team Dynamics:** Create teams, assign up to 5 members per team, and calculate collective progress toward weekly targets.
@@ -14,7 +14,7 @@ A robust, file-based management system written in C to track employee productivi
 
 ---
 
-## 🏗️ Technical Architecture
+##  Technical Architecture
 
 ### Data Structures
 The system is built on two primary `typedef struct` components:
@@ -31,7 +31,7 @@ The system is built on two primary `typedef struct` components:
 
 ---
 
-## 🛠️ Functionality Overview
+##  Functionality Overview
 
 | Option | Description |
 | :--- | :--- |
@@ -43,7 +43,7 @@ The system is built on two primary `typedef struct` components:
 
 ---
 
-## 💻 Installation & Execution
+##  Installation & Execution
 
 ### Compilation
 Compile the project using any standard C compiler (GCC recommended):
